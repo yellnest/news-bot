@@ -1,0 +1,1 @@
+from news import all_news
